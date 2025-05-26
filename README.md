@@ -1,4 +1,4 @@
-# 🧸 Avantsoft API
+# 🚀 Avantsoft API
 
 Teste técnico para backend da Avantsoft
 
