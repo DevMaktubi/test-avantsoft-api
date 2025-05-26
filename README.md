@@ -1,11 +1,11 @@
-# 🧸 Toy Store API
+# 🧸 Avantsoft API
 
-A RESTful Node.js API for managing clients and sales with statistics.
+Teste técnico para backend da Avantsoft
 
 ## 🚀 Setup
 
 ```bash
-git clone https://your-repo-url
-cd toy-store-api
+git clone https://github.com/DevMaktubi/test-avantsoft-api
+cd test-avantsoft-api
 cp .env.example .env
 docker-compose up --build
